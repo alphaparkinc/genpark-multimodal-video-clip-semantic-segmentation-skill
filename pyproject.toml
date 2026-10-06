@@ -1,0 +1,1 @@
+[project]\nname = "genpark-multimodal-video-clip-semantic-segmentation-skill"\nversion = "1.0.0"\ndescription = "Extracts timestamp boundaries, semantic scenes, and viral clip candidate segments from long-form video transcripts"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n

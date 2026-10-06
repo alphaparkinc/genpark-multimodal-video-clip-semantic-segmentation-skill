@@ -1,0 +1,1 @@
+# genpark-multimodal-video-clip-semantic-segmentation-skill\n\nExtracts timestamp boundaries, semantic scenes, and viral clip candidate segments from long-form video transcripts.\n\n100% Python Standard Library implementation with zero external dependencies.

@@ -1,0 +1,8 @@
+{
+  "name": "genpark-multimodal-video-clip-semantic-segmentation-skill",
+  "version": "1.0.0",
+  "description": "Extracts timestamp boundaries, semantic scenes, and viral clip candidate segments from long-form video transcripts",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
